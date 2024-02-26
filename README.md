@@ -9,7 +9,7 @@ https://github.com/mosaviczki/Exemple-sql-injection/assets/88504003/4e8060ae-332
 
 
 
-OBS: Todos os dados são apenas ilustrativos para fim didático 
+OBS: Todos os dados são apenas ilustrativos para fins didáticos para o Trabalho de Conclusão de Curso
 
 
 
